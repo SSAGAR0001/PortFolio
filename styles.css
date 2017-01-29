@@ -1,7 +1,6 @@
 .container {
     margin-bottom: 5vh;
 }
-
 header {
     margin: 5vh 0 2vh 0;
     min-height: 125px;
@@ -11,58 +10,38 @@ header {
     -moz-box-shadow: 0px 5px 0px 0px #8A7975;
     box-shadow: 0px 5px 0px 0px #8A7975;
 }
-
 .logo img {
     height: 120px;
 }
-
 .small-logo img {
     margin: 0 35vw 0 33vw;
     width: 30vw;
 }
-
 .main-img img {
     width: 100%;
     margin:0 0 2vh 0;
 }
-
 .no-padding {
     padding: 0;
 }
-
-.name h1 {
+.margin_left_right {
+    margin: 0 1vw 0 1vw;
+}
+.head_name h1 {
     font-weight: 300;
     font-size: 40px;
 }
-
-.name h3 {
+.head_name h3 {
     color: #8A7975;
     font-weight: 900;
 }
-
-.feature-box {
-    border: 1px solid #8A7975;
-}
-
-.feature-box h2 {
-    font-weight: 900;
-    
-}
-
 .feature {
-    padding: 3px;
+    padding: 4px;
 }
-
 .feature img {
     width: 100%;
-    border: 1px solid #8A7975;
 }
-
 .feature a {
     color: #8A7975;
-    font-size: 20px;    
-}
-
-.margin-left-right-1 {
-    margin: 0 1vw 0 1vw;
+    font-size: 18px;    
 }
